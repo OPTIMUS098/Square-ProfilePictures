@@ -1,0 +1,4 @@
+/* Server image/profile pictures roundness (Default: 0px) */
+    --server-list-rounding: 0px;
+    /* Width for server icons in folders (Default: 40px) */
+    --icon-width: 40px;
